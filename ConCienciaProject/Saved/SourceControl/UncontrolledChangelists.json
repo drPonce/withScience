@@ -7,7 +7,13 @@
 			"files": [
 				"C:/Users/gompa/Desktop/withScience/ConCienciaProject/Content/Art/Materials/Shaders/LVL_ShaderTesting_BuiltData.uasset",
 				"C:/Users/gompa/Desktop/withScience/ConCienciaProject/Content/Art/Materials/Shaders/LVL_ShaderTesting.umap",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineSky/M_SimpleSkyDome.uasset"
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
+				"C:/Users/gompa/Desktop/withScience/ConCienciaProject/Content/Art/Materials/Shaders/MPP_PaperCellshading.uasset",
+				"C:/Users/gompa/Desktop/withScience/ConCienciaProject/Content/Art/Characters/Bubo/M_BuboEyes.uasset",
+				"C:/Users/gompa/Desktop/withScience/ConCienciaProject/Content/Art/Characters/Bubo/SM_Bubo_NORIG.uasset",
+				"C:/Users/gompa/Desktop/withScience/ConCienciaProject/Content/Art/Materials/M_Opaque.uasset",
+				"C:/Users/gompa/Desktop/withScience/ConCienciaProject/Content/Art/Characters/Bubo/MI_Bubo_Body.uasset",
+				"C:/Users/gompa/Desktop/withScience/ConCienciaProject/Content/Art/Characters/Bubo/M_BuboEyes_Inst.uasset"
 			]
 		}
 	]
