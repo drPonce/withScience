@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/ForkGit/withScience/ConCienciaProject/Content/Blueprints/Core/BP_playerController.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
 				"C:/Users/lunad/Documents/forkiFork/withScience/ConCienciaProject/Content/Testing/SM_FenceTest.uasset",
 				"C:/Users/lunad/Documents/forkiFork/withScience/ConCienciaProject/Content/Testing/solidColorMats/M_testingSolidColorCopper.uasset",
