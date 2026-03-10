@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/ForkGit/withScience/ConCienciaProject/Content/Blueprints/Core/BP_playerController.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineSky/M_SimpleSkyDome.uasset",
 				"C:/Users/lunad/Documents/forkiFork/withScience/ConCienciaProject/Content/Testing/SM_FenceTest.uasset",
 				"C:/Users/lunad/Documents/forkiFork/withScience/ConCienciaProject/Content/Testing/solidColorMats/M_testingSolidColorCopper.uasset",
@@ -357,6 +356,8 @@
 				"C:/Users/lunad/Documents/forkiFork/withScience/ConCienciaProject/Content/Blueprints/Widgets/touchInterface/customTouchInterface.uasset",
 				"C:/Users/lunad/Documents/forkiFork/withScience/ConCienciaProject/Content/Blueprints/structuresEnums/levelNames.uasset",
 				"C:/Users/lunad/Documents/forkiFork/withScience/ConCienciaProject/Content/Blueprints/structuresEnums/mateoTimeGaps.uasset",
+				"C:/Users/lunad/Documents/forkiFork/withScience/ConCienciaProject/Content/Testing/deletedis/pngtree-bowling-ball-face-png-image_11497901.uasset",
+				"D:/ForkGit/withScience/ConCienciaProject/Content/Blueprints/Core/BP_playerController.uasset",
 				"C:/Users/lunad/Documents/forkiFork/withScience/ConCienciaProject/Content/Blueprints/Widgets/NewTouchInterface.uasset",
 				"C:/Users/lunad/Documents/forkiFork/withScience/ConCienciaProject/Content/Blueprints/Widgets/UI_parkHUD.uasset",
 				"C:/Users/lunad/Documents/forkiFork/withScience/ConCienciaProject/Content/Testing/M_testingSolidColor.uasset",
